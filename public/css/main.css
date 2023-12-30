@@ -21,6 +21,11 @@ body {
     color: #666;
 }
 
+h2 {
+    font-weight: 700;
+    font-size: 14px;
+}
+
 a {  
     display: inline-block;
     position: relative;
@@ -28,6 +33,7 @@ a {
     color: #666;
     text-decoration: none;
     cursor: pointer;
+    font-family: 'Raleway', sans-serif;
 }
 
 svg {
@@ -43,6 +49,7 @@ svg:hover, a:hover {
 li {
     display: inline-block;
     list-style: none;
+    font-family: 'Raleway', sans-serif;
 }
 
 img {
